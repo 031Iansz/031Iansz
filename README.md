@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=header"/>
-## Olá eu sou o Ian  👋
-## My programming languages 💻: | Minhas linguagens de programação 💻:
+## Olá eu sou o Ian  👋 My programming languages 💻: | Minhas linguagens de programação 💻:
 <div>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
