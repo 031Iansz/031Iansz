@@ -1,7 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=header"/>
 
 
-## Olá eu sou o Ian  👋 My programming languages 💻: | Minhas linguagens de programação 💻:
+## Olá eu sou o Ian  👋 
+
+## My programming languages 💻: | Minhas linguagens de programação 💻:
 
 
 <div>
